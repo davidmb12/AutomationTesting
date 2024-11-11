@@ -1,0 +1,242 @@
+[
+  {
+    "name": "relay",
+    "value": "4d2ae4f4-8779-4396-b7d6-aa7548cdb590",
+    "domain": "adobeid-na1.services.adobe.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ftrset",
+    "value": "305",
+    "domain": "adobeid-na1.services.adobe.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "gds",
+    "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6Imltc19uYTEta2V5LWdjLTEiLCJpdHQiOiJjayJ9.eyJ0dGwiOjI0MTkyMDAsIm1vaSI6IjIyYmJkNTI5IiwiZG9tYWluTWFya2VyIjoiLnNlcnZpY2VzLmFkb2JlLmNvbSIsImdkaSI6IjE3MzEyOTE5ODIwNTJfYjY5MGQ5MDMtNGIxMy00OWRmLTg4ZjUtM2MyNWVlNmNhNjM1IiwiY2xpZW50X2lkIjoiZGMtcHJvZC12aXJnb3dlYiIsImNyZWF0ZWRfYXQiOjE3MzEyOTE5ODIsImV4cGlyZXNfYXQiOjE3MzM3MTExODJ9.eG5hus7v-fiM11jxTm0VaA4l211Iq1iaUvB_wT3ri_1XW5jWP3ng-kK15yiLkonQtpth9QSe1mOKPiFJ_G4tk4GRmnuKup7dMWGR51qDOL7WX82q_JIA530W3n4xMze1nX6RqnnHlHuZg60EUKH_jOjhR97Ebl1gNbeeCI9s3EIOTZL2S5t4GgzpObpbELfuhksV3a0OifTdhTMARtzWcOpFlE07L2oeZrfaG4BSmZ78-lAfqYtIzoWPQmVagS3Z0dJxW5W0pzb96euO5gT_O0wZ0nOvbI-hSYFpcJ4eKUluW68k5t1yBsZgsjNgGmS8veZppT_o1-bdFE5642VU-w",
+    "domain": ".services.adobe.com",
+    "path": "/",
+    "expires": 1733711182.901461,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "gas",
+    "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6Imltc19uYTEta2V5LWdjLTEiLCJpdHQiOiJjayJ9.eyJ0dGwiOjg2NDAwLCJkb21haW5NYXJrZXIiOiIuc2VydmljZXMuYWRvYmUuY29tIiwiZ2lkIjoiMTczMTI5MTk4MjA1Ml8xZmMyNTI3Yi02ZjdmLTRhMDItOTgzYi04ZDA0NWU4NDAwZTdAR3Vlc3RJRCIsImNsaWVudF9pZCI6ImRjLXByb2QtdmlyZ293ZWIiLCJkZXZpY2VfaWQiOiIxNzMxMjkxOTgyMDUyX2I2OTBkOTAzLTRiMTMtNDlkZi04OGY1LTNjMjVlZTZjYTYzNSIsImNyZWF0ZWRfYXQiOjE3MzEyOTE5ODIsImV4cGlyZXNfYXQiOjE3MzEzNzgzODIsInNjYyI6Ik1YIn0.UgTcTzR1sCr_Eq3myxxDN2aB-Dn2fBJ0JUPpdPwhFCWmMeNzH9-EDqekqeh9H_mjKEZ1WgOd6-40wIuejifzIJ4cKMXIuurD6pVg3llMMAjvEc6kRP9MbTyrQKVMgWIKHr7AMAnaMtCigUTcVjwRlsLEd2FHLNLZUAiLjeF3N219064zu3ctEGQ2c0Mi2X7fVch-4Osa7QUHePvfJveqWf3ccWcBwUBE6Zysl1xagxAw26jFBDNtVW3LN5wkCGLlf_GQIZYU6AZ14q4WzS8zHEGh_NaRU1pHMnPVES0d2glMMJo49aoYfQkBKa69yJtRQoWxZuJluE5W2qJ16bUdqQ",
+    "domain": ".services.adobe.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_cs_mk_aa",
+    "value": "0.003965815480143853_1731291983024",
+    "domain": ".adobe.com",
+    "path": "/",
+    "expires": 1731293783,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "s_nr",
+    "value": "1731291983025-New",
+    "domain": ".adobe.com",
+    "path": "/",
+    "expires": 1762827983,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "relay",
+    "value": "a56e44ba-2683-422e-9ec1-6680d9a178f7",
+    "domain": "ims-na1.adobelogin.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ftrset",
+    "value": "305",
+    "domain": "ims-na1.adobelogin.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "locale",
+    "value": "en_US",
+    "domain": "ims-na1.adobelogin.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "mbox",
+    "value": "session%2322235860608914088310864162324556840787%2DmscJHR%231731293842",
+    "domain": ".adobe.com",
+    "path": "/",
+    "expires": 1765851983.352962,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "mboxEdgeCluster",
+    "value": "34",
+    "domain": ".adobe.com",
+    "path": "/",
+    "expires": 1731293783.353027,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "kndctr_9E1005A551ED61CA0A490D45_AdobeOrg_cluster",
+    "value": "va6",
+    "domain": ".adobe.com",
+    "path": "/",
+    "expires": 1731293783.353047,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "kndctr_9E1005A551ED61CA0A490D45_AdobeOrg_identity",
+    "value": "CiYyMjIzNTg2MDYwODkxNDA4ODMxMDg2NDE2MjMyNDU1Njg0MDc4N1ISCKTVrMixMhABGAEqA1ZBNjAA8AGk1azIsTI%3D",
+    "domain": ".adobe.com",
+    "path": "/",
+    "expires": 1765419983.353062,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "gpv",
+    "value": "acrobat.adobe.com:link:home:appversion=latest",
+    "domain": ".adobe.com",
+    "path": "/",
+    "expires": 1731293783,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "sat_domain",
+    "value": "A",
+    "domain": ".adobe.com",
+    "path": "/",
+    "expires": 1731291985,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "relay",
+    "value": "a56e44ba-2683-422e-9ec1-6680d9a178f7",
+    "domain": "auth.services.adobe.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "s_ecid",
+    "value": "MCMID%7C22235860608914088310864162324556840787",
+    "domain": ".adobe.com",
+    "path": "/",
+    "expires": 1765851984.375967,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "AMCVS_9E1005A551ED61CA0A490D45%40AdobeOrg",
+    "value": "1",
+    "domain": ".adobe.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "demdex",
+    "value": "22031515132450071530844132542127279069",
+    "domain": ".demdex.net",
+    "path": "/",
+    "expires": 1746843984.664072,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "AMCV_9E1005A551ED61CA0A490D45%40AdobeOrg",
+    "value": "1176715910%7CMCMID%7C22235860608914088310864162324556840787%7CMCAID%7CNONE%7CMCOPTOUT-1731299184s%7CNONE%7CMCAAMLH-1731896784%7C7%7CMCAAMB-1731896784%7Cj8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI%7CvVersion%7C5.4.0",
+    "domain": ".adobe.com",
+    "path": "/",
+    "expires": 1765851984.667413,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "OptanonAlertBoxClosed",
+    "value": "2024-11-11T02:26:24.671Z",
+    "domain": ".adobe.com",
+    "path": "/",
+    "expires": 1762827984,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "OptanonConsent",
+    "value": "groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1",
+    "domain": ".adobe.com",
+    "path": "/",
+    "expires": 1762827984,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "s_ppv",
+    "value": "[%22auth.services.adobe.com/en_US/index.html%22%2C100%2C0%2C720%2C1280%2C720%2C1280%2C720%2C1%2C%22P%22]",
+    "domain": ".adobe.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "s_cc",
+    "value": "true",
+    "domain": ".adobe.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]
